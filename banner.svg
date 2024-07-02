@@ -24,16 +24,21 @@
             background-position: 0% 50%;
           }
         }
+*{
+margin: 0;
+}
 
         .container {
           background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
           background-size: 400% 400%;
           animation: gradient 15s ease infinite;
+position: relative;
 
           width: 100%;
           height: 300px;
-
           display: flex;
+gap: 10px;
+flex-direction: column;
           justify-content: center;
           align-items: center;
           color: white;
@@ -56,10 +61,30 @@
             animation: none;
           }
         }
+.images{
+position: absolute;
+bottom:10px;
+display: flex;
+gap: 10px;
+}
+
+h2{
+font-weight: 400;
+}
       </style>
 
       <div class="container">
         <h1>Hi, I'm Nazmuz Sakib<div class="hi">👋</div></h1>
+        <h2>Full Stack Web Developer</h2>
+
+<div class="images">
+<img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="" height="40px" />
+<img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="" height="40px" />
+<img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="" height="40px" />
+<img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="" height="40px" />
+<img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="" height="40px" />
+<img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="" height="40px" />
+</div>
       </div>
     </div>
   </foreignObject>

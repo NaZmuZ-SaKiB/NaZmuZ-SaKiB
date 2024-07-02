@@ -1,4 +1,6 @@
-
+<div style="width: 100%;">
+  <img src="banner.svg" style="width: 100%;" alt="Click to see the source">
+</div>
 <h3 align="center">I'm a Full Stack web developer skilled in React, NextJs, Node.js, MongoDB and Prisma. I'm Continuously learning and adapting to new technologies and industry best practices.</h3>
 
 ## :chart_with_upwards_trend: Current Stats

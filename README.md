@@ -44,6 +44,8 @@ I'm a Full Stack web developer skilled specially in React, NextJs, Node.js, Mong
 <br />
 
 **🧑‍💻: Tech I most use:**
+<br />
+<br />
 I love using Next.js for my frontend projects, combined with Tailwind CSS and Shadcn UI to create sleek, responsive designs. In my React projects, I use Tanstack Query for smooth data fetching. For backend development, I go with Express.js, and MongoDB is my go-to database.
 
 <br />
@@ -51,6 +53,8 @@ I love using Next.js for my frontend projects, combined with Tailwind CSS and Sh
 **:eyes: Projects:**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-nazmuzsakibs-projects.vercel.app](https://my-portfolio-nazmuzsakibs-projects.vercel.app)
+
+  <br />
 
 **:mailbox: How to reach me**
 

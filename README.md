@@ -1,7 +1,7 @@
 
   <img src="banner.webp" style="width: 100%;" alt="banner">
 
-I'm a Full Stack web developer skilled in specially React, NextJs, Node.js, MongoDB and Prisma. I'm Continuously learning and adapting to new technologies and industry best practices. I'm currently doing B.Sc in Mathematics at the University of Rajshahi.
+I'm a Full Stack web developer skilled specially in React, NextJs, Node.js, MongoDB and Prisma. I'm Continuously learning and adapting to new technologies and industry best practices. I'm currently doing B.Sc in Mathematics at the University of Rajshahi.
 
 ---
 
@@ -40,6 +40,11 @@ I'm a Full Stack web developer skilled in specially React, NextJs, Node.js, Mong
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/></a>$~~~$
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/></a>
 </p>
+
+<br />
+
+**🧑‍💻: Tech I most use:**
+I love using Next.js for my frontend projects, combined with Tailwind CSS and Shadcn UI to create sleek, responsive designs. In my React projects, I use Tanstack Query for smooth data fetching. For backend development, I go with Express.js, and MongoDB is my go-to database.
 
 <br />
 

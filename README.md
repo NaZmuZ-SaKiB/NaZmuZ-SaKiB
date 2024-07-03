@@ -1,5 +1,5 @@
 
-  <img src="banner.svg" style="width: 100%;" alt="banner">
+  <img src="banner.webp" style="width: 100%;" alt="banner">
 
 I'm a Full Stack web developer skilled in specially React, NextJs, Node.js, MongoDB and Prisma. I'm Continuously learning and adapting to new technologies and industry best practices. I'm currently doing B.Sc in Mathematics at the University of Rajshahi.
 

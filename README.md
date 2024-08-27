@@ -57,10 +57,9 @@ I love using Next.js for my frontend projects, combined with Tailwind CSS and Sh
 
   <br />
 
-**🧑‍💻: Currently Working On:**
-- My Gadgets Ecommerce Store: [Frontend](https://github.com/NaZmuZ-SaKiB/My-Gadgets), [Backend](https://github.com/NaZmuZ-SaKiB/My-Gadgets-Server)
-- Frontend Technologies: NextJs, TailwindCSS, Shadcn UI, Tanstack Query, React Hook Form, Zod, Cloudinary
-- Backend Technologies: NodeJs, ExpressJs, Mongoose, Jose, Zod
+**🧑‍💻: Currently Working On:** My Gadgets Ecommerce Store
+- [Frontend](https://github.com/NaZmuZ-SaKiB/My-Gadgets) Technologies: NextJs, TailwindCSS, Shadcn UI, Tanstack Query, React Hook Form, Zod, Cloudinary
+- [Backend](https://github.com/NaZmuZ-SaKiB/My-Gadgets-Server) Technologies: NodeJs, ExpressJs, Mongoose, Jose, Zod
 
 **:mailbox: How to reach me**
 

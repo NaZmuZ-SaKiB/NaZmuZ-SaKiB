@@ -53,7 +53,7 @@ I love using Next.js for my frontend projects, combined with Tailwind CSS and Sh
 
 **:eyes: Projects:**
 
-- 👨‍💻 All of my projects are available at [My-Portfolio](https://my-portfolio-nazmuzsakibs-projects.vercel.app)
+- 👨‍💻 All of my projects are available at [My-Portfolio](https://nazmuz-sakib-portfolio.vercel.app)
 
   <br />
 

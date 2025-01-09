@@ -17,7 +17,6 @@ I'm a Full Stack web developer skilled specially in React, NextJs, Node.js, Mong
 
 **:chart_with_upwards_trend: My Stats:**
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nazmuz-sakib&show_icons=true&locale=en" alt="nazmuz-sakib" /> </p>
-<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=NaZmuZ_SaKiB&theme=swift&border_radius=01" alt="nazmuz-sakib" /> </p>
 
 <br />
 

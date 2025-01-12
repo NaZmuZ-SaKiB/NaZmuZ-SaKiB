@@ -8,7 +8,7 @@ I'm a Full Stack web developer skilled specially in React, NextJs, Node.js, Mong
 **:busts_in_silhouette: Social Media:**
 <p align="left">
 <a href="https://github.com/NaZmuZ-SaKiB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sakibnazmuz01" height="40" width="40" /></a>$~~~$
-<a href="https://linkedin.com/in/nazmuz-sakib-603912216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nazmuz-sakib-603912216" height="40" width="40" /></a>$~~~$
+<a href="https://linkedin.com/in/nazmuz-sakib-web-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nazmuz-sakib-603912216" height="40" width="40" /></a>$~~~$
 <a href="https://fb.com/sakibnazmuz01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sakibnazmuz01" height="40" width="40" /></a>$~~~$
 <a href="https://instagram.com/snazmuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="snazmuz" height="40" width="40" /></a>$~~~$
 <a href="https://x.com/NaZmuZ__SaKiB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="snazmuz" height="40" width="40" /></a>

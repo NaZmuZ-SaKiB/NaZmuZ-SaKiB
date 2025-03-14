@@ -56,8 +56,8 @@ I love using Next.js for my frontend projects, combined with Tailwind CSS and Sh
 
   <br />
 
-**🧑‍💻: Currently Working On:** Price Api
-- [Backend](https://github.com/NaZmuZ-SaKiB/price-api-backend) Technologies: Typescript, NodeJs, ExpressJs, Mongoose
+**🧑‍💻: Currently Working On:** HealthSync (Hospital Management)
+- [Backend](https://github.com/NaZmuZ-SaKiB/health-sync-backend) Technologies: Typescript, Prisma, Graphql, Apollo Server
 
 **:mailbox: How to reach me**
 

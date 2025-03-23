@@ -57,6 +57,7 @@ I love using Next.js for my frontend projects, combined with Tailwind CSS and Sh
   <br />
 
 **🧑‍💻: Currently Working On:** HealthSync (Hospital Management)
+- [Frontend](https://github.com/NaZmuZ-SaKiB/health-sync) Technologies: Typescript, React, React-Router, Shadcn UI, Tailwind Css
 - [Backend](https://github.com/NaZmuZ-SaKiB/health-sync-backend) Technologies: Typescript, Prisma, Graphql, Apollo Server
 
 **:mailbox: How to reach me**
